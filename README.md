@@ -1,6 +1,6 @@
 客户端本周开放下载！
 
-命令行版本全平台（本周发布）支持 linux windows macos
+命令行 webui 支持 linux windows macos（本周发布）
 
 linux = 命令行版本
 
